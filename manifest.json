@@ -1,0 +1,15 @@
+{
+  "short_name": "Dylan Vazquez - Software Developer",
+  "name": "Dylan Vazquez - Software Developer",
+  "icons": [
+    {
+      "src": "",
+      "type": "",
+      "sizes": ""
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
